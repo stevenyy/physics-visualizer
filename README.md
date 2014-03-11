@@ -1,4 +1,11 @@
-physics-visualizer
-==================
-
+Bullet Visualization
+==============
+### Description
 The goal of this is to be able to visualize any Bullet physics scenario.
+
+### Compilation
+You'll need to include and link the following libraries.
+- Bullet
+- GLFW
+- GLEW
+- GLM
