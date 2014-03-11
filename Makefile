@@ -1,5 +1,5 @@
-BULLET_DIR = lib/bullet
-BULLET_BUILD_DIR = lib/bullet-build
+BULLET_DIR = lib/bullet-physics
+BULLET_BUILD_DIR = lib/bullet-physics/bullet-build
 GLFW_DIR = lib/glfw
 GLEW_DIR = lib/glew
 GLM_DIR = lib/glm
